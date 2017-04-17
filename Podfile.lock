@@ -1,5 +1,5 @@
 PODS:
-  - Masonry (1.0.1)
+  - Masonry (1.0.2)
   - RHTools (0.1.16.0.1)
 
 DEPENDENCIES:
@@ -7,7 +7,7 @@ DEPENDENCIES:
   - RHTools
 
 SPEC CHECKSUMS:
-  Masonry: a1a931a0d08870ed8ae415a2ea5ea68ebcac77df
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
   RHTools: '08735d19aa64d81915499603fc668f345589e25b'
 
 PODFILE CHECKSUM: 6c92e498a251e5fe658b2c61a3fc68decf6b2954
